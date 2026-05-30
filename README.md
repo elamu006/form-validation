@@ -77,7 +77,7 @@ Modern form validation commonly combines HTML validation with JavaScript for bet
 
 Author
 
-Elamurugan
+Elampirai
 
 GitHub: elamu006 GitHub Profile
 License
